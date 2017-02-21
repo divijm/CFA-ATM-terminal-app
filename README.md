@@ -16,17 +16,17 @@ Create an ATM app which does the following:
 
 <h2>File History: ATM.rb</h2>
 
-<h3>1st attempt</h3>
+<h3>1st attempt: ATM.rb</h3>
 
 <h3>2nd attempt: ATM2.rb</h3>
 
-Changes(additions):
+Additions:
   - ability to show balance after withdrawal or deposit
   - ability to exit the ATM if nothing more needs to be done
 
 <h3>3rd attempt: ATM3.rb</h3>
 
-Changes(additions):
+Additions:
   - ability to set an initial balance for their personal account
   - ability to withdraw a certain amount
   - ability to deposit a certain amount
