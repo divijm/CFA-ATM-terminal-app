@@ -1,1 +1,1 @@
-# CFA-ATM-terminal-app
+# CFA ATM terminal app
