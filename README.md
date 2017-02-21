@@ -1,4 +1,4 @@
-# CFA ATM terminal app
+# CFA ATM Terminal App
 
 <h1>Project Name:</h1>
 
@@ -7,12 +7,14 @@ ATM Terminal App
 <h2>Description:</h2>
 
 Create an ATM app which does the following:
-  - multiple methods
+  - utilizing multiple methods
   - utilizing a loop
+  - utilizing if statements
   - getting user input at multiple stages of the app
   - ability to set an initial balance
-  - ability to withdraw
-  - ability to deposit
+  - ability to withdraw a certain amount
+  - ability to deposit a certain amount
+  - ability to show balance after withdrawal or deposit
   - ability to exit the ATM if nothing more needs to be done
 
 <h2>File History:</h2>
