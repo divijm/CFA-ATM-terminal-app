@@ -1,14 +1,14 @@
 # CFA ATM Terminal App
 
-<h2>Project Name:</h2>
+<h2>Project Name</h2>
 
 ATM Terminal App
 
-<h2>Description:</h2>
+<h2>Description</h2>
 
 Create an ATM app which has simples functions of being able to deposit and withdraw.
 
-<h2>Installation instructions</h2>
+<h2>Installation Instructions</h2>
 
 ATM Terminal App is written in Ruby and must have it installed (Ruby 2.4 or higher).
 
@@ -44,10 +44,10 @@ Additions:
   - ability to have a pin verification
   - ability to have a account number verification
 
-<h2>Authors:</h2>
+<h2>Authors</h2>
 Divij Mehra
 
 Mentorship and insight was sought from Trent, Jamie, Peter and other peer students.
 
-<h2>Contact Info:</h2>
+<h2>Contact Info</h2>
 Reach out to me via GitHub and email (dmehra_66@hotmail.com)
