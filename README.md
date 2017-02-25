@@ -6,17 +6,19 @@ ATM Terminal App
 
 <h2>Description:</h2>
 
-Create an ATM app which does the following:
-  - utilizing multiple methods
-  - utilizing a loop
-  - utilizing if statements
+Create an ATM app which has simples functions of being able to deposit and withdraw.
+
+<h2>File History</h2>
+
+<h3>1st attempt: ATM.rb</h3>
+
+Features:
+  - multiple methods
+  - loops
+  - if statements
   - getting user input at multiple stages of the app
   - ability to withdraw
   - ability to deposit
-
-<h2>File History: ATM.rb</h2>
-
-<h3>1st attempt: ATM.rb</h3>
 
 <h3>2nd attempt: ATM2.rb</h3>
 
@@ -33,9 +35,6 @@ Additions:
   - ability to have an ATM balance
   - ability to have a pin verification
   - ability to have a account number verification
-
-
-
 
 <h2>Authors:</h2>
 Divij Mehra
