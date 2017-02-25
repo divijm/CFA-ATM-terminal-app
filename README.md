@@ -1,6 +1,6 @@
 # CFA ATM Terminal App
 
-<h1>Project Name:</h1>
+<h2>Project Name:</h2>
 
 ATM Terminal App
 
