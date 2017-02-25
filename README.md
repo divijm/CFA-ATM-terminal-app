@@ -8,6 +8,14 @@ ATM Terminal App
 
 Create an ATM app which has simples functions of being able to deposit and withdraw.
 
+<h2>Installation instructions</h2>
+
+ATM Terminal App is written in Ruby and must have it installed (Ruby 2.4 or higher).
+
+1. Clone the repo.
+
+2. To run the file in terminal: ```$ ruby ATM.rb``` (and similarly for ATM2.rb and ATM3.rb)
+
 <h2>File History</h2>
 
 <h3>1st attempt: ATM.rb</h3>
